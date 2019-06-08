@@ -10,7 +10,7 @@ PS：现在本人已经大三了，在准备保研夏令营的事情。挺忙的
 本项目用的Qtcreater 开发的 大家最好用Qtcreater 打开项目. <br>
 程序依赖于mysql数据库先要解决Qt连接数据库问题，大家出问题八成是连接数据库的配置没做。
 可以参考如下连接
-<a href="https://blog.csdn.net/qq_35158695/article/details/53022565">https://blog.csdn.net/qq_35158695/article/details/53022565</a>
+<a href="https://blog.csdn.net/qq_35158695/article/details/53022565">https://blog.csdn.net/qq_35158695/article/details/53022565</a> <br>
 ###一．使用说明<br>
 该学生信息管理系统使用的数据库为MySQL；<br>
 在另外一台电脑上（老师的电脑）运行时运行环境必须满足以下要求：<br>
