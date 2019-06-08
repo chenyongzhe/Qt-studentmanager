@@ -20,7 +20,7 @@ PS：现在本人已经大三了，在准备保研夏令营的事情。挺忙的
 4，最后在原代码中的globle.cpp 文件中更改连接数据库的账号和密码( 更改QString sqluser="root"  的值为更改账号。更改QString sqlpass="123456" 的值为更改密码。<br>
 此处我的数据库账号为root   密码为123456。此处账号密码要对应自己MySQL账号密码）<br>
 以上步骤若没完成则会编译运行不了<br>
-##运行后进入登录页面
+##运行后进入登录页面<br>
 <img src="http://chenyongzhe.github.io/login.png" ><br>
 学生端登录账密码在student表中可以找到 用该表的name作为账号， password 作为密码可登录学生端如：陈永喆  5252<br>
 管理员端登录账号密码在admin表中 用该表的username作为账号和password作为密码可登录管理员端 如admin  admin<br>
