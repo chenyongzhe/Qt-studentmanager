@@ -13,10 +13,10 @@ PS：现在本人已经大三了，在准备保研夏令营的事情。挺忙的
 <a href="https://blog.csdn.net/qq_35158695/article/details/53022565">https://blog.csdn.net/qq_35158695/article/details/53022565</a> <br><br><br>
 ###一．使用说明<br>
 该学生信息管理系统使用的数据库为MySQL；<br>
-在另外一台电脑上（老师的电脑）运行时运行环境必须满足以下要求：<br>
-1,那台电脑必须要安装数据库MySQL;<br>
+在另外一台电脑上（老师的电脑）运行时运行环境必须满足以下要求：<br><br>
+1,那台电脑必须要安装数据库MySQL;<br><br>
 2,在那台电脑的MySQL中导入本人数据库脚本文件  studentmanager.sql  （该文件已打包好）（在后面写了导入studentmanager.sql 的方法）<br><br>
-3，在MySQL的安装目录下的lib文件夹中的libmysql.dll文件复制到Qt安装目录下的bin目录中<br>
+3，在MySQL的安装目录下的lib文件夹中的libmysql.dll文件复制到Qt安装目录下的bin目录中<br><br>
 4，最后在原代码中的globle.cpp 文件中更改连接数据库的账号和密码( 更改QString sqluser="root"  的值为更改账号。更改QString sqlpass="123456" 的值为更改密码。<br><br>
 此处我的数据库账号为root   密码为123456。此处账号密码要对应自己MySQL账号密码）<br><br>
 以上步骤若没完成则会编译运行不了<br><br>
