@@ -8,6 +8,12 @@ PS：现在本人已经大三了，在准备保研夏令营的事情。挺忙的
 本人如果没有及时回复相关问题可以给本人发邮件1276316543@qq.com.  或者加本人QQ 1276316543本人很乐意回答大家。<br><br>
 
 本项目用的Qtcreater5.8 开发的 大家最好用Qtcreater 5.8以上 打开项目. <br><br>
+Qt5.8 安装包<br><br>
+链接：<a href="https://pan.baidu.com/s/1c7ca_gN5vKYH_Q7l1F58vA">https://pan.baidu.com/s/1c7ca_gN5vKYH_Q7l1F58vA</a>
+提取码：i2dr <br><br>
+
+
+
 程序依赖于mysql数据库先要解决Qt连接数据库问题，大家出问题八成是连接数据库的配置没做。<br>
 可以参考如下连接<br>
 <a href="https://blog.csdn.net/qq_35158695/article/details/53022565">https://blog.csdn.net/qq_35158695/article/details/53022565</a> <br><br><br>
