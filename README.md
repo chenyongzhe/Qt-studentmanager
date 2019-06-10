@@ -7,7 +7,7 @@ PS：现在本人已经大三了，在准备保研夏令营的事情。挺忙的
 这个可以作为很多同学的入门项目。<br>由于项目用到了数据库Mysql 不懂mysql 的话要去了解下MySQL 的安装和基本增删改查。<br><br>
 本人如果没有及时回复相关问题可以给本人发邮件1276316543@qq.com.  或者加本人QQ 1276316543本人很乐意回答大家。<br><br>
 
-本项目用的Qtcreater 开发的 大家最好用Qtcreater 打开项目. <br><br>
+本项目用的Qtcreater5.8 开发的 大家最好用Qtcreater 5.8以上 打开项目. <br><br>
 程序依赖于mysql数据库先要解决Qt连接数据库问题，大家出问题八成是连接数据库的配置没做。<br>
 可以参考如下连接<br>
 <a href="https://blog.csdn.net/qq_35158695/article/details/53022565">https://blog.csdn.net/qq_35158695/article/details/53022565</a> <br><br><br>
