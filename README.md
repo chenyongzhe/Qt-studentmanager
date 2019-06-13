@@ -14,7 +14,7 @@ Qt5.8 安装包<br><br>
 
 
 
-程序依赖于mysql数据库先要解决Qt连接数据库问题，大家出问题八成是连接数据库的配置没做。<br>
+程序依赖于mysql数据库先要解决Qt连接数据库问题，大家出问题八成是连接数据库的配置没做。并且还有就是libmysql.dll文件的问题32位的Qt 对应32位的MySQL dll文件，同理64位对应64位不然会依然连接不上数据库！！！<br>
 可以参考如下连接<br>
 <a href="https://blog.csdn.net/qq_35158695/article/details/53022565">https://blog.csdn.net/qq_35158695/article/details/53022565</a> <br><br><br>
 ###一．使用说明<br>
