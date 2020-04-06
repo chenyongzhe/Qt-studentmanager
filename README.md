@@ -9,8 +9,8 @@ C++ Qt 基于数据库Mysql学生信息管理系统<br><br>
 
 本项目用的Qtcreater5.8 开发的 大家最好用Qtcreater 5.8以上 打开项目. 5.0版本以下可能会打不开项目 <br><br>
 Qt5.8 安装包<br><br>
-链接：<a href="https://pan.baidu.com/s/1c7ca_gN5vKYH_Q7l1F58vA">https://pan.baidu.com/s/1c7ca_gN5vKYH_Q7l1F58vA</a>
-提取码：i2dr <br><br>
+链接：<a href="https://pan.baidu.com/s/1caKNLK_KywKOvWqxwaVIog">https://pan.baidu.com/s/1caKNLK_KywKOvWqxwaVIog</a>
+提取码：y1wy <br><br>
 
 
 
