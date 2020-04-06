@@ -8,10 +8,12 @@ C++ Qt 基于数据库Mysql学生信息管理系统<br><br>
 本人如果没有及时回复相关问题可以给本人发邮件1276316543@qq.com.  或者加本人QQ 1276316543本人很乐意回答大家。<br><br>
 
 本项目用的Qtcreater5.8 开发的 大家最好用Qtcreater 5.8以上 打开项目. 5.0版本以下可能会打不开项目 <br><br>
-Qt5.8 安装包<br><br>
+Qt5.8 安装包32位<br><br>
 链接：<a href="https://pan.baidu.com/s/1caKNLK_KywKOvWqxwaVIog">https://pan.baidu.com/s/1caKNLK_KywKOvWqxwaVIog</a>
 提取码：y1wy <br><br>
-
+mysql 安装包 32位
+链接：<a href="https://pan.baidu.com/s/11QafqEWuyZ84scb9Y2Ebew">https://pan.baidu.com/s/11QafqEWuyZ84scb9Y2Ebew</a>
+提取码：k1td <br><br>
 
 
 程序依赖于mysql数据库先要解决Qt连接数据库问题，大家出问题八成是连接数据库的配置没做。并且还有就是libmysql.dll文件的问题32位的Qt 对应32位的MySQL dll文件，同理64位对应64位不然会依然连接不上数据库！！！<br>
