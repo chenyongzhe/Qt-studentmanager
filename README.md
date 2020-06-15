@@ -25,11 +25,14 @@ mysql 安装包 32位
 该学生信息管理系统使用的数据库为MySQL；<br>
 在另外一台电脑上（老师的电脑）运行时运行环境必须满足以下要求：<br><br>
 1,那台电脑必须要安装数据库MySQL;<br><br>
-2,在那台电脑的MySQL中导入本人数据库脚本文件  studentmanager.sql  （该文件已打包好）（在后面写了导入studentmanager.sql 的方法）<br><br>
+2,在那台电脑的MySQL中导入本人数据库脚本文件  studentmanager.sql  （该文件已打包好）（这里推荐使用navicate for mysql 导入 数据库创建是要选择utf8编码，不然后期会出现数据库中文乱码）<br><br>
 3，在MySQL的安装目录下的lib文件夹中的libmysql.dll文件复制到Qt安装目录下的bin目录中<br><br>
 4，最后在原代码中的globle.cpp 文件中更改连接数据库的账号和密码( 更改QString sqluser="root"  的值为更改账号。更改QString sqlpass="123456" 的值为更改密码。<br><br>
 此处我的数据库账号为root   密码为123456。此处账号密码要对应自己MySQL账号密码）<br><br>
 以上步骤若没完成则会编译运行不了<br><br>
+关于一些你们遇到的一些问题的总结：
+1.登陆显示密码错误，并且控制台打印not open database,这是这是链接数据库不成功，两个问题第一检测dll文件有没有导入，第二请使用我上面给的qtcreater,和mysql 安装包<br><br>
+2.遇到信息显示中文乱码，请重新安装数据在数据库的安装引导中将默认的latin1编码换成utf8编码，如何确认在navacte 中你的数据库是不是设置为utf8编码,这两步缺一不可。数据库引导页面改变的那页如下<br>
 ##运行后进入登录页面<br>
 <img src="http://chenyongzhe.github.io/login.png" ><br>
 学生端登录账密码在student表中可以找到 用该表的name作为账号， password 作为密码可登录学生端如：陈永喆  5252<br><br>
