@@ -35,8 +35,8 @@ mysql 安装包 32位
 学生端登录账密码在student表中可以找到 用该表的name作为账号， password 作为密码可登录学生端如：陈永喆  5252<br><br>
 管理员端登录账号密码在admin表中 用该表的username作为账号和password作为密码可登录管理员端 如admin  admin<br><br>
 关于一些你们遇到的一些问题的总结：<br>
-1.登陆显示密码错误，并且控制台打印not open database,这是这是链接数据库不成功，两个问题第一检测dll文件有没有导入，第二请使用我上面给的qtcreater,和mysql 安装包<br><br>
-2.遇到信息显示中文乱码，请重新安装数据在数据库的安装引导中将默认的latin1编码换成utf8编码，如何确认在navacte 中你的数据库是不是设置为utf8编码,这两步缺一不可。数据库引导页面改变编码的那页如下<br>
+1.登陆显示密码错误，并且控制台打印not open database,这是链接数据库不成功，两个问题第一检测dll文件有没有导入，第二请使用我上面给的qtcreater,和mysql 安装包<br><br>
+2.遇到信息显示中文乱码，请重新安装数据在数据库的安装引导中将默认的latin1编码换成utf8编码，然后确认在navacte 中你的数据库是不是设置为utf8编码,这两步缺一不可。数据库引导页面改变编码的那页如下<br>
 <img src="http://chenyongzhe.github.io/yd.png" ><br>
 具体的东西可以看我的实验报告里面<br> 我当时传到上面去了那个doc文件。
  
