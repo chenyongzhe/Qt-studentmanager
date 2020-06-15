@@ -22,7 +22,7 @@ mysql 安装包 32位
 可以参考如下连接<br>
 <a href="https://blog.csdn.net/qq_35158695/article/details/53022565">https://blog.csdn.net/qq_35158695/article/details/53022565</a> <br><br><br>
 ###一．使用说明<br>
-该学生信息管理系统使用的数据库为MySQL；<br>
+该学生信息管理系统使用的数据库为MySQL；安装引导是一定要将将默认的latin1编码换成utf8编码，不然后面会中文乱码<br>
 在另外一台电脑上（老师的电脑）运行时运行环境必须满足以下要求：<br><br>
 1,那台电脑必须要安装数据库MySQL;<br><br>
 2,在那台电脑的MySQL中导入本人数据库脚本文件  studentmanager.sql  （该文件已打包好）（这里推荐使用navicate for mysql 导入 数据库创建是要选择utf8编码，不然后期会出现数据库中文乱码）<br><br>
